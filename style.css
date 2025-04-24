@@ -20,12 +20,17 @@
 }
 
 .imagem-capa img {
-    width: 1900px;
-    height: 500px;
+    height: 600px;
+    width: 1890px;
+    padding-bottom: 0px;
+}
+
+.imagem-capa h1 {
+    color: #60CFFF;
+    justify-content: center;
 }
 
 .conteudo {
     background-color: #0A0040;
     height: 2000px;
-
 }
