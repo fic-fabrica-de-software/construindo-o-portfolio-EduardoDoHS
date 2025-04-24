@@ -13,6 +13,7 @@
 
 .navbar a {
     color: #60CFFF;
+    font-size: larger;
 }
 
 .navbar a:hover {
@@ -23,11 +24,6 @@
     height: 600px;
     width: 1890px;
     padding-bottom: 0px;
-}
-
-.imagem-capa h1 {
-    color: #60CFFF;
-    justify-content: center;
 }
 
 .conteudo {
