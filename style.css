@@ -30,3 +30,9 @@
     background-color: #0A0040;
     height: 2000px;
 }
+
+.pojetos {
+    display: flex;
+    border-radius: 5px;
+    border-color: #60CFFF;
+}
