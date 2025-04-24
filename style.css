@@ -1,0 +1,31 @@
+.navbar {
+    background-color: #0A0040;
+    padding: 1rem;
+    height: 55px;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: right;
+    list-style: none;
+    gap: 2rem;
+}
+
+.navbar a {
+    color: #60CFFF;
+}
+
+.navbar a:hover {
+    color: #006a97;
+}
+
+.imagem-capa img {
+    width: 1900px;
+    height: 500px;
+}
+
+.conteudo {
+    background-color: #0A0040;
+    height: 2000px;
+
+}
